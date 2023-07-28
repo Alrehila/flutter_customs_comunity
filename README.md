@@ -5,6 +5,6 @@ Anyone can contribute examples, from the simplest to the most complex. Any examp
 
 ### Projects
 
-- [flutter_customs - A Package that do customs for flutter](https://github.com/Alrehila/flutter_customs) <!--stargazers:Alrehila/flutter_customs--> - Project developed by [Mohamed Elkady](https://github.com/MoAlKady).
+- [flutter_customs - A Package that do customs for flutter](https://github.com/Alrehila/flutter_customs) <!--stargazers:Alrehila/flutter_customs--> - Package developed by [Mohamed Elkady](https://github.com/MoAlKady).
 
 ### Quick examples
